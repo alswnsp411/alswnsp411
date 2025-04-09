@@ -10,13 +10,17 @@
 
 <br>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=alswnsp411&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/alswnsp411"
-  width="100%"
-/>
-</a>
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=alswnsp411&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/alswnsp411?pet-id=695251375454077413"
+    width="600"
+    height="120"
+  />
+</a>
+  
+  
  <br>
  <br>
 
