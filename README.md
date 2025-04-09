@@ -47,10 +47,10 @@
 <div align="center">
 
   <a href="https://github.com/alswnsp411">
-    <img src="https://github-readme-stats.vercel.app/api?username=alswnsp411&show_icons=true&theme=radical" width="50%" height="200">
+    <img src="https://github-readme-stats.vercel.app/api?username=alswnsp411&show_icons=true&theme=radical" width="60%">
   </a>
   <a href="https://solved.ac/alswnsp411">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alswnsp411" width="49%" height="200">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alswnsp411" width="40%">
   </a>
   
 </div>
