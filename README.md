@@ -10,6 +10,16 @@
 
 <br>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=alswnsp411&utm_content=farm">
+ <img
+   src="https://render.gitanimals.org/farms/alswnsp411"
+   width="100%"
+ />
+ </a>
+
+ <br>
+ <br>
+
 ## 👩‍💻 Education
 
 - (20.03 ~ 25.02) 충북대학교 소프트웨어학과 전공
