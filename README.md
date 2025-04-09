@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e7bcfb&height=180&text=WELCOME%20🥰&animation=&fontColor=000000&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e7bcfb&height=180&text=WELCOME%20🥰♥️&animation=&fontColor=000000&fontSize=50" />
 </div>
 
 
@@ -12,7 +12,7 @@
 
 ## 👩‍💻 Education
 
-- (20.03 ~ 25.02) 충북대학교 소프트웨어학과 전공  
+- (20.03 ~ 25.02) 충북대학교 소프트웨어학과 전공
 - (25.02 ~ 25.07) SK C&C 채용연계형 AI 서비스 개발 과정 SKALA 1기
 
 <br>
