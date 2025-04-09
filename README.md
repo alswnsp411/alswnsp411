@@ -41,11 +41,25 @@
   
 </p>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="150" />
-    <img src="https://skillicons.dev/icons?i=spring&theme=light" width="150" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="150" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="80" />
+  <table align="center">
+  <tr>
+    <td align="center" style="padding:10px;">
+       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" />
+    </td>
+    <td align="center" style="padding:10px;">
+       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="150" />
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=spring&theme=light" width="150" />
+    </td>
+    <td align="center" style="padding:10px;">
+       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="150" />
+    </td>
+    <td align="center" style="padding:10px;">
+       <img src="https://skillicons.dev/icons?i=fastapi" width="80" />
+    </td>
+  </tr>
+  </table>
 </p>
 <p align="center">
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80" />
