@@ -33,41 +33,67 @@
 
 ## 🛠️ Tech Stacks
 
-<p align="center">
-     <img src="https://skillicons.dev/icons?i=vue&theme=light" width="80" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="80" />
-  
-</p>
-<p align="center">
-  <table align="center">
-  <tr>
-    <td align="center" style="padding:10px;">
-       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" />
-    </td>
-    <td align="center" style="padding:10px;">
-       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="150" />
-    </td>
-    <td align="center" style="padding:10px;">
-      <img src="https://skillicons.dev/icons?i=spring&theme=light" width="150" />
-    </td>
-    <td align="center" style="padding:10px;">
-       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="150" />
-    </td>
-    <td align="center" style="padding:10px;">
-       <img src="https://skillicons.dev/icons?i=fastapi" width="80" />
-    </td>
-  </tr>
-  </table>
-</p>
-<p align="center">
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="80" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="80" />
-   <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" />
-</p>
+<div align="center" style="margin:0;">
+    <table align="center">
+        <tr>
+          <td align="center" style="padding:10px;">
+             <img src="https://skillicons.dev/icons?i=vue&theme=light" width="80" />
+          </td>
+          <td align="center" style="padding:10px; ">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" />
+          </td>
+          <td align="center" style="padding:10px;">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" />
+          </td>
+          <td align="center" style="padding:10px;">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="80" />
+          </td>
+        </tr>
+    </table>
+</div>
+<div>
+    <table align="center">
+        <tr>
+          <td align="center" style="padding:10px;">
+             <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" />
+          </td>
+          <td align="center" style="padding:10px; display: 'none';">
+             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="150" />
+          </td>
+          <td align="center" style="padding:10px;">
+            <img src="https://skillicons.dev/icons?i=spring&theme=light" width="150" />
+          </td>
+          <td align="center" style="padding:10px;">
+             <img src="https://techstack-generator.vercel.app/java-icon.svg" width="150" />
+          </td>
+          <td align="center" style="padding:10px;">
+             <img src="https://skillicons.dev/icons?i=fastapi" width="80" />
+          </td>
+        </tr>
+    </table>
+</div>
+
+<div align="center" style="margin:0;">
+    <table align="center">
+        <tr>
+          <td align="center" style="padding:10px;">
+             <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80" />
+          </td>
+          <td align="center" style="padding:10px; ">
+            <img src="https://skillicons.dev/icons?i=linux&theme=light" width="80" />
+          </td>
+          <td align="center" style="padding:10px;">
+            <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="80" />
+          </td>
+          <td align="center" style="padding:10px;">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" />
+          </td>
+          <td align="center" style="padding:10px;">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" />
+          </td>
+        </tr>
+    </table>
+</div>
 
 <br>
 
